@@ -1,4 +1,4 @@
-## # <img src="https://multicast.uz/static/img/0.png" width="200"> **web** <img src="static/img/0.png" width="25">
+### <img src="https://multicast.uz/static/img/0.png" width="200"> **web** <img src="static/img/0.png" width="25">
 
 
 
