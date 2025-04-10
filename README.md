@@ -5,3 +5,6 @@
 * #### Вход: https://multicast.uz
 
 
+
+ # Ведущий разработчик - DevOps инженер SBP DevTeam
+
