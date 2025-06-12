@@ -11,5 +11,7 @@ ____
 ### `Публичные проекты`
 
 #### `Bot delivery` https://t.me/sbpizza_bot
+#### `MultiCast` https://multicast.uz/
+#### `Mini-app` https://sbp-delivery.uz/web-app/products
 
 ____
