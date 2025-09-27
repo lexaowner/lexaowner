@@ -54,8 +54,8 @@
 ---
 
 ## 📬 Контакты
-- 🌐 [multicast.uz](https://multicast.uz/)  
-- 💬 Telegram: [@sbpizza_bot](https://t.me/sbpizza_bot)  
+- 🌐 [multicast.uz](https://multicast.uz/apply/)  
+- 💬 Telegram: [@Aleksey](https://t.me/EMWCL)  
 
 ---
 ✨ *Code. Build. Scale. Inspire.*
