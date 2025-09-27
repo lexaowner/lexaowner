@@ -6,6 +6,10 @@
 
 ---
 
+<p align="center">
+  <img src="static/img/ale-stats.svg" width="940" alt="Aleksey — GitHub Activity"/>
+</p>
+
 ## 🚀 Обо мне
 - 🧑‍💻 Основатель проекта **[MultiCast](https://multicast.uz/)**  
 - 🔧 Ведущий разработчик и DevOps инженер в **SBP DevTeam**  
