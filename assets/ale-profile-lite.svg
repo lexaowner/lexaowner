@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="940" height="760" viewBox="0 0 940 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="940" y2="760" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0E1222"/>
+      <stop offset="1" stop-color="#0B0F1A"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#00E5FF"/>
+      <stop offset="1" stop-color="#7C4DFF"/>
+    </linearGradient>
+    <filter id="soft" x="-20%" y="-40%" width="140%" height="180%">
+      <feDropShadow dx="0" dy="8" stdDeviation="16" flood-color="#000000" flood-opacity="0.45"/>
+    </filter>
+    <style>
+      .h1 { font: 800 40px/1.2 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Ubuntu,"Helvetica Neue",Arial,"Noto Sans",sans-serif; fill:#EAF6FF; letter-spacing:.5px }
+      .h2 { font: 700 22px/1.2 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Ubuntu,"Helvetica Neue",Arial,"Noto Sans",sans-serif; fill:#E6F3FF; letter-spacing:.3px }
+      .muted { font: 500 13px/1.4 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Ubuntu,"Helvetica Neue",Arial,"Noto Sans",sans-serif; fill:#9FB2C8 }
+      .tag { font: 700 12px/1.2 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Ubuntu,"Helvetica Neue",Arial,"Noto Sans",sans-serif; fill:#CDE8FF; letter-spacing:.4px }
+      .pill { font: 700 12px/1.2 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Ubuntu,"Helvetica Neue",Arial,"Noto Sans",sans-serif; fill:#CDE8FF }
+      .chip { fill:url(#accent); opacity:.08 }
+      .stroke { stroke:#1B2337; }
+      .card { fill:#0F1424; stroke:#1B2337 }
+    </style>
+  </defs>
+
+  <!-- background -->
+  <rect width="940" height="760" rx="24" fill="url(#bg)"/>
+  <circle cx="860" cy="56" r="120" class="chip"/>
+  <circle cx="80" cy="720" r="90" class="chip"/>
+
+  <!-- Header -->
+  <g transform="translate(14,14)">
+    <rect width="912" height="180" rx="18" class="stroke" fill="transparent"/>
+    <g transform="translate(22,34)">
+      <text class="h1">Aleksey</text>
+      <text class="muted" y="32">Founder @ MultiCast · DevOps Engineer · SBP DevTeam</text>
+
+      <g transform="translate(0,64)">
+        <rect width="360" height="70" rx="14" class="card" filter="url(#soft)"/>
+        <g transform="translate(16,16)">
+          <text class="tag">FOCUS</text>
+          <text class="muted" y="22">Clean code · Reliable systems · Scalable solutions</text>
+        </g>
+      </g>
+      <g transform="translate(384,64)">
+        <rect width="506" height="70" rx="14" class="card" filter="url(#soft)"/>
+        <g transform="translate(16,16)">
+          <text class="tag">CURRENT</text>
+          <text class="muted" y="22">Building MultiCast platform and SBP infrastructure</text>
+        </g>
+      </g>
+    </g>
+  </g>
+
+  <!-- Projects -->
+  <g transform="translate(14,208)">
+    <rect width="912" height="192" rx="18" class="stroke" fill="transparent"/>
+    <g transform="translate(22,22)">
+      <text class="h2">Public Projects</text>
+      <g transform="translate(0,36)">
+        <rect width="280" height="120" rx="14" class="card" filter="url(#soft)"/>
+        <g transform="translate(16,18)">
+          <text class="tag">MULTICAST</text>
+          <text class="muted" y="22">Content broadcasting to TV devices</text>
+          <text class="muted" y="42">multicast.uz</text>
+        </g>
+      </g>
+      <g transform="translate(312,36)">
+        <rect width="280" height="120" rx="14" class="card" filter="url(#soft)"/>
+        <g transform="translate(16,18)">
+          <text class="tag">BOT DELIVERY</text>
+          <text class="muted" y="22">Telegram bot for delivery</text>
+          <text class="muted" y="42">t.me/sbpizza_bot</text>
+        </g>
+      </g>
+      <g transform="translate(624,36)">
+        <rect width="280" height="120" rx="14" class="card" filter="url(#soft)"/>
+        <g transform="translate(16,18)">
+          <text class="tag">SAVE BOT</text>
+          <text class="muted" y="22">Media downloader bot</text>
+          <text class="muted" y="42">t.me/DovvsaveBot</text>
+        </g>
+      </g>
+    </g>
+  </g>
+
+  <!-- Tech Stack -->
+  <g transform="translate(14,416)">
+    <rect width="912" height="330" rx="18" class="stroke" fill="transparent"/>
+    <g transform="translate(22,22)">
+      <text class="h2">Tech Stack</text>
+      <g transform="translate(0,36)">
+        <!-- row 1 -->
+        <g>
+          <rect x="0" y="0" rx="10" ry="10" width="120" height="34" fill="#111833" stroke="#26314A"/><text class="pill" x="16" y="22">Python</text>
+          <rect x="132" y="0" rx="10" ry="10" width="130" height="34" fill="#111833" stroke="#26314A"/><text class="pill" x="148" y="22">FastAPI</text>
+          <rect x="274" y="0" rx="10" ry="10" width="130" height="34" fill="#111833" stroke="#26314A"/><text class="pill" x="290" y="22">Django</text>
+          <rect x="416" y="0" rx="10" ry="10" width="120" height="34" fill="#111833" stroke="#26314A"/><text class="pill" x="432" y="22">React</text>
+          <rect x="548" y="0" rx="10" ry="10" width="150" height="34" fill="#111833" stroke="#26314A"/><text class="pill" x="564" y="22">TailwindCSS</text>
+        </g>
+        <!-- row 2 -->
+        <g transform="translate(0,44)">
+          <rect x="0" y="0" rx="10" ry="10" width="140" height="34" fill="#111833" stroke="#26314A"/><text class="pill" x="16" y="22">PostgreSQL</text>
+          <rect x="152" y="0" rx="10" ry="10" width="120" height="34" fill="#111833" stroke="#26314A"/><text class="pill" x="168" y="22">Docker</text>
+          <rect x="284" y="0" rx="10" ry="10" width="120" height="34" fill="#111833" stroke="#26314A"/><text class="pill" x="300" y="22">Redis</text>
+          <rect x="416" y="0" rx="10" ry="10" width="130" height="34" fill="#111833" stroke="#26314A"/><text class="pill" x="432" y="22">Proxmox</text>
+          <rect x="558" y="0" rx="10" ry="10" width="150" height="34" fill="#111833" stroke="#26314A"/><text class="pill" x="574" y="22">Telegram API</text>
+        </g>
+        <!-- row 3 -->
+        <g transform="translate(0,88)">
+          <rect x="0" y="0" rx="10" ry="10" width="120" height="34" fill="#111833" stroke="#26314A"/><text class="pill" x="16" y="22">SQLAlchemy</text>
+          <rect x="132" y="0" rx="10" ry="10" width="120" height="34" fill="#111833" stroke="#26314A"/><text class="pill" x="148" y="22">NGINX</text>
+          <rect x="264" y="0" rx="10" ry="10" width="140" height="34" fill="#111833" stroke="#26314A"/><text class="pill" x="280" y="22">RabbitMQ</text>
+          <rect x="416" y="0" rx="10" ry="10" width="120" height="34" fill="#111833" stroke="#26314A"/><text class="pill" x="432" y="22">Sentry</text>
+          <rect x="548" y="0" rx="10" ry="10" width="170" height="34" fill="#111833" stroke="#26314A"/><text class="pill" x="564" y="22">Django REST</text>
+        </g>
+        <!-- row 4 (optional room) -->
+        <g transform="translate(0,132)">
+          <rect x="0" y="0" rx="10" ry="10" width="190" height="34" fill="#111833" stroke="#26314A"/><text class="pill" x="16" y="22">Aiogram / Telegram Bots</text>
+          <rect x="202" y="0" rx="10" ry="10" width="120" height="34" fill="#111833" stroke="#26314A"/><text class="pill" x="218" y="22">Uvicorn</text>
+          <rect x="334" y="0" rx="10" ry="10" width="120" height="34" fill="#111833" stroke="#26314A"/><text class="pill" x="350" y="22">Gunicorn</text>
+          <rect x="466" y="0" rx="10" ry="10" width="150" height="34" fill="#111833" stroke="#26314A"/><text class="pill" x="482" y="22">Alembic/SQL</text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
