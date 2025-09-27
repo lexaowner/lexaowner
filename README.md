@@ -1,8 +1,4 @@
 <h1 align="center">Aleksey</h1>
-<p align="center">
-  <img src="static/img/baner.png" alt="Sariq Bola" width="650" style="border-radius: 16px; box-shadow: 0px 6px 20px rgba(0,0,0,0.45);" />
-  <img src="static/img/preview05.png" alt="Sariq Bola" width="650" style="border-radius: 16px; box-shadow: 0px 6px 20px rgba(0,0,0,0.45);" />
-</p>
 
 <p align="center">
   <b>⚡ Founder @ MultiCast | DevOps Engineer | SBP DevTeam ⚡</b>
@@ -44,13 +40,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=lexaowner&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
----
-
-## 🎬 Атмосфера Dev
-<p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="340" alt="Coding"/>
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="340" alt="Data stream"/>
-</p>
 
 ---
 
