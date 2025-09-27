@@ -1,30 +1,31 @@
 <h1 align="center">Aleksey</h1>
+<p align="center"><b>⚡ Founder @ MultiCast | DevOps Engineer | SBP DevTeam ⚡</b></p>
 
+<!-- Header -->
 <p align="center">
-  <b>⚡ Founder @ MultiCast | DevOps Engineer | SBP DevTeam ⚡</b>
+  <img src="assets/ale-header.svg" width="940" alt="Aleksey — Header"/>
 </p>
 
----
-
+<!-- Projects -->
 <p align="center">
-  <img src="static/img/ale-stats.svg" width="940" alt="Aleksey — GitHub Activity"/>
+  <img src="assets/ale-projects.svg" width="940" alt="Aleksey — Projects"/>
 </p>
 
-## 🚀 Обо мне
-- 🧑‍💻 Основатель проекта **[MultiCast](https://multicast.uz/)**  
-- 🔧 Ведущий разработчик и DevOps инженер в **SBP DevTeam**  
-- ⚡ Строю системы, которые работают стабильно, масштабируются и реально приносят пользу  
+<!-- Tech Stack -->
+<p align="center">
+  <img src="assets/ale-stack.svg" width="940" alt="Aleksey — Tech Stack"/>
+</p>
 
----
+<!-- Stats (из прошлого шага) -->
+<p align="center">
+  <img src="assets/ale-stats.svg" width="940" alt="Aleksey — Stats"/>
+</p>
 
-## 🌍 Публичные проекты
-- 🎥 **[MultiCast](https://multicast.uz/)** — система вещания контента на TV  
-- 📦 **[Bot Delivery](https://t.me/sbpizza_bot)** — Telegram-бот для доставки  
-- 💾 **[Save Bot](https://t.me/DovvsaveBot)** — медиа-загрузчик  
+<!-- Contacts -->
+<p align="center">
+  <img src="assets/ale-contact.svg" width="940" alt="Aleksey — Contacts"/>
+</p>
 
----
-
-## 🛠 Стек технологий
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
@@ -35,23 +36,3 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white"/>
 </p>
-
----
-
-## 📊 GitHub статистика
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lexaowner&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=lexaowner&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
-
----
-
-## 📬 Контакты
-- 🌐 [multicast.uz](https://multicast.uz/)  
-- 💬 Telegram: [@Aleksey](https://t.me/EMWCL)  
-
----
-
-✨ *Clean code. Reliable systems. Scalable solutions.*
-
