@@ -27,6 +27,9 @@
   <a href="https://t.me/DovvsaveBot">
     <img src="https://img.shields.io/badge/Save%20Bot-Telegram-22c55e?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
+  <a href="https://t.me/gpt_5UzBot">
+    <img src="https://img.shields.io/badge/GPT%205-Telegram-22c55e?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
 </p>
 
 
