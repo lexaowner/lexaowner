@@ -74,7 +74,7 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=lexaowner&theme=tokyo-night" width="940"/>
   </p>
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=lexaowner&theme=tokyonight&row=1&column=6"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=lexaowner&theme=tokyonight&row=1&column=1"/>
   </p>
 </details>
 
