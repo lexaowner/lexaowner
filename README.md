@@ -21,6 +21,9 @@
   <a href="https://multicast.uz/">
     <img src="https://img.shields.io/badge/MultiCast-Visit-0ea5e9?style=for-the-badge" />
   </a>
+  <a href="https://multi-m.uz/#/public">
+    <img src="https://img.shields.io/badge/GPT_5-research-0ea5e9?style=for-the-badge" />
+  </a>
   <a href="https://t.me/sbpizza_bot">
     <img src="https://img.shields.io/badge/Bot%20Delivery-Telegram-22c55e?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
@@ -84,6 +87,9 @@
   </a>
   <a href="https://t.me/EMWCL">
     <img src="https://img.shields.io/badge/Telegram-@Aleksey-0ea5e9?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+ <a href="https://multi-m.uz">
+    <img src="https://img.shields.io/badge/Website-UZ_GPT.uz-3b82f6?style=for-the-badge" />
   </a>
 </p>
 
